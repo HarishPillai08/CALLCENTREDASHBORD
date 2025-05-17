@@ -31,7 +31,8 @@ Data used in this project is publicly available on [Kaggle]
 ---
 
 ## 📸 Dashboard Snapshot
-https://github.com/HarishPillai08/CALLCENTREDASHBORD/blob/main/CALL%20CENTER%20DASHBORD.png
+![Call Center Dashboard](https://raw.githubusercontent.com/HarishPillai08/CALLCENTREDASHBORD/main/CALL%20CENTER%20DASHBORD.png)
+
 
 ---
 
